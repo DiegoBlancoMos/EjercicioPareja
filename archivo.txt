@@ -1,1 +1,2 @@
 Este es el párrafo original en el archivo.
+Este es el párrafo añadido por estudiante1.
